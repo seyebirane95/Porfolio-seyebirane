@@ -1,0 +1,298 @@
+{
+  "events": [
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:31:25.553Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:32:01.367Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "cv_download",
+      "page": "cv",
+      "timestamp": "2026-04-21T10:34:09.805Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "project_click",
+      "page": "Plateforme decisionnelle ITSM",
+      "timestamp": "2026-04-21T10:36:04.430Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "project_click",
+      "page": "Plateforme Data GCP",
+      "timestamp": "2026-04-21T10:36:08.282Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:37:20.149Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:40:40.359Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:50:05.870Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:50:05.906Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:50:23.750Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "cv_download",
+      "page": "cv",
+      "timestamp": "2026-04-21T10:50:27.416Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "contact",
+      "timestamp": "2026-04-21T10:52:32.223Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:55:27.741Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T10:55:41.000Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T11:19:01.954Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T11:19:07.316Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T11:19:07.362Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T11:19:07.379Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T11:19:07.428Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T11:19:11.264Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T11:19:11.295Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "cv_download",
+      "page": "cv",
+      "timestamp": "2026-04-21T11:19:33.746Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "cv_download",
+      "page": "cv",
+      "timestamp": "2026-04-21T11:20:22.285Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T15:38:08.123Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T15:38:44.646Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T15:38:54.485Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T15:57:33.327Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T15:57:33.474Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T15:57:44.113Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-21T15:57:47.369Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-22T15:48:41.292Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-22T15:48:41.312Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-22T15:49:02.539Z",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "event": "project_click",
+      "page": "Chatbot Data & IA — Analyse automatisée d'incidents",
+      "timestamp": "2026-04-22T16:08:37.125Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T08:33:29.152Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T08:35:13.297Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T13:47:53.725Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T14:06:14.863Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T14:07:05.743Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T14:58:42.392Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T14:59:07.454Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T14:59:07.462Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T14:59:23.508Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "contact",
+      "timestamp": "2026-04-23T15:21:08.571Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T15:43:44.718Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T15:52:06.554Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T16:02:33.314Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-23T16:08:44.509Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "event": "page_view",
+      "page": "accueil",
+      "timestamp": "2026-04-24T13:56:37.060Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    }
+  ]
+}
