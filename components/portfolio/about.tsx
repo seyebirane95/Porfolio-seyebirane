@@ -57,6 +57,7 @@ export function About() {
             </div>
             <ul className="text-muted-foreground text-sm space-y-2">
               <li> 2023-2025 Mastere Data Engineer - Ynov Lyon </li>
+              <li> 2022-2023  Master 1 Intelligence Artificielle Distribué - Paris Cité </li>
               <li> 2020-2022 Master Statistiques & Informatique Decisionnelle </li>
               <li> 2017-2020 Licence 3 Statistiques & Informatique Decisionnelle</li>
             </ul>
